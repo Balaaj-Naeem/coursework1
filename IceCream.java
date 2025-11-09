@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class coursework1IceCream {
+public class IceCream {
 
     private static final String STUDENT_NUMBER = "34029033";
 

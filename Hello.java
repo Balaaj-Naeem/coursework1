@@ -1,4 +1,4 @@
-public class coursework1Hello {
+public class Hello {
     private static final String STUDENT_NUMBER = "34029033";
 
     public static void main(String[] args) {

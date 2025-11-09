@@ -1,4 +1,4 @@
-public class coursework1Volume {
+public class Volume {
 
     static double sphere(double d) {
         double r = d / 2.0;

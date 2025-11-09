@@ -1,4 +1,4 @@
-public class coursework1AverageGrades {
+public class AverageGrades {
 
     static int[] average_grades(int grades[][], int weights[]) {
         int numberOfStudents = grades.length;

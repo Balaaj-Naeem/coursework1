@@ -1,4 +1,4 @@
-public class coursework1SevenSegment {
+public class SevenSegment {
 
     static String ssd(int d, int n) {
         switch ((d * 10) + n) {
